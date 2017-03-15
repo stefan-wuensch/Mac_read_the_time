@@ -47,6 +47,9 @@
 # 
 
 
+echo "Reading you the time, with the default Mac OS system voice."
+echo "To stop, hit ^C"
+
 #say "This is `basename $0`."
 say "[[ rate +225 ]] It's `date '+%l:%M\ %p'`, [[ rate +85 ]] ahnd?"
 
