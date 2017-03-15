@@ -13,6 +13,15 @@
 # Note: this script assumes the computer on which you are running this script
 # is synchronized via NTP or some other (is there any other??) time standard.
 # 
+# Another thing... Not all the Mac OS text-to-speech voices have the same speaking
+# rate. I personally like these voices:
+# UK voice "Daniel"
+# US voice "Ava"
+# US voice "Susan"
+# The popular US voice "Alex" (which is one of the most high-quality Mac OS voices)
+# tends to be very fast relative to other voices. "Alex" is a great computer voice
+# but not the best for this application.
+# 
 # 
 ####################################################################################################
 # MIT License
