@@ -2,6 +2,8 @@
 
 The ultimate time-setting utility with which your Mac will read the time - so you can set other "dumb" clocks around you.
 
+__Listen to the two sample files to hear how this script sounds!__
+
 This script is (at least I think it is) the ultimate clock-setting
 utility. It reads the time aloud from your Mac, with resolution to the
 second. The vocalized time includes AM/PM, hour, and minute at the
